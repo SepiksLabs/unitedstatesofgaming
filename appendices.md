@@ -1,6 +1,4 @@
-# Appendix 1 
-
-## Best Rated Games By Platform (Until September 2024)
+# Appendix 1 - Best Rated Games By Platform (Until September 2024)
 
 *Note: This is a list of the top 10 games per platform, for modern platforms, as listed on Metacritic, ignoring DLCs. For the PC platform, only games released in or after 2013 have been considered, to maintain parity with the other platforms. This list was generated via Metacritic on September 16, 2024.*
 
@@ -29,9 +27,7 @@ https://www.metacritic.com/browse/game/pc/
 https://www.metacritic.com/browse/game/nintendo-switch/
 
 
-# Appendix 2 
-
-## Home Console Generations
+# Appendix 2 - Home Console Generations
 
 | **Generation** | **Active Years** |                          **Important Console Launches**                         |
 |:--------------:|:----------------:|:-------------------------------------------------------------------------------:|
