@@ -1,3 +1,5 @@
+# Tutorial
+
 Imagine that the video game industry was a country of its own. For argument’s sake, this country does not have any physical boundaries, and is  set up entirely in a virtual environment. 
 
 Right away, it’s interesting to note that this would be the largest country in the world in terms of population, with over 3 billion citizens.
