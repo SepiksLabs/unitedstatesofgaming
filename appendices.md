@@ -19,9 +19,13 @@
 | Divinity: Original Sin II -  Definitive Edition              | God of War: Ragnarok         | Demon’s Souls (2020)      | Diablo IV                         |
 
 Sources:
+
 https://www.metacritic.com/browse/game/ps5/
+
 https://www.metacritic.com/browse/game/xbox-series-x/
+
 https://www.metacritic.com/browse/game/pc/
+
 https://www.metacritic.com/browse/game/nintendo-switch/
 
 
