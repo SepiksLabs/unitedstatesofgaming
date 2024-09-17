@@ -10,7 +10,7 @@ If you like playing video games, you might get excited about the concept of earn
 
 Ask any person who has achieved success in these career paths, and they will mention the hundreds of hours of work they have put in *not* playing games, in order to become successful. Not everyone has the capability to withstand the challenges that crop up behind the scenes. This is not to discourage anyone from pursuing these career paths, but it is necessary to be aware of the many risks and requirements involved with each of them. That is what this chapter is all about. 
 
-We will explore five career paths, which I feel are the ones which offer the right mix of being enjoyable, challenging, and financially lucrative at the same time. Finding success with these options is not easy, but for those who persevere, there is a proven path to making an honest living using these career paths.
+We will explore four career paths, which I feel are the ones which offer the right mix of being enjoyable, challenging, and financially lucrative at the same time. Finding success with these options is not easy, but for those who persevere, there is a proven path to making an honest living using these career paths.
 
 ## Game Development 
 
@@ -155,6 +155,34 @@ For the rest of us, there’s no shame in accepting our limits and pursuing othe
 
 ## Content Creation
 
-## Retail 
+*Content Creation* is a term that applies to a wide range of disciplines. Broadly speaking, it involves creating content in the form of text, pictures, audio, video, or a combination of one or more of these formats. 
 
-Please note that these are not the *only* known paths to build a career in the industry. There are certainly other options, such as consulting, coaching, and maybe even more that have not even been discovered yet. With the various tools available for free online, you are only limited by your imagination and time in discovering the next best way to make money in this industry.
+In the world of video games, content creators are primarily found on two platforms - *Twitch*, and *YouTube*. Secondary platforms include the usual list of social media apps, such as *Instagram, TikTok, Snapchat,* and so on. The primary platforms however, is where hundreds of people have built successful careers. Note that I said hundreds, and not thousands, although there are hundreds of thousands of people who have a presence on these platforms, trying to make it to the top.
+
+Those at the top are able to enjoy a steady stream of income due to the size of their audience, which often measures in the hundreds of thousands, or millions. It takes time to build a dedicated audience of such a size, and even after putting in time and effort, it’s not a guaranteed thing. 
+
+Imagine if YouTube guaranteed that everyone who uploaded a video to the platform daily for two years would automatically get a million subscribers. Suddenly, a lot more people would be motivated to take up YouTube as a career option! In reality, it doesn’t work like that. Some people are charming, knowledgeable, lucky, or all of them at once, to gain a massive audience in a short amount of time. The rest of us have to either give it an honest try and see what happens, or not try at all.
+
+Anyway, for those who are interested in becoming a content creator in the realm of video games, there are two clear paths.
+
+The first is to become a live streamer, which you can try on both major platforms, although Twitch is the platform of choice for the top streamers. Live streaming involves playing games of your choice, while offering live commentary, some kind of analysis, or whatever else you feel will attract an audience. Once you get enough people following your streams, Twitch will allow you to run ads on your stream, accept donations and monthly subscriptions, which are all direct revenue streams. Once you grow even larger, you may attract sponsors to your channel, who will pay you to showcase their brand on your streams. 
+
+Live streaming is a physically and mentally demanding job. Not only do you need to keep your gameplay good enough for random viewers to remain interested, but you also need to pay attention to your chat window, incoming alerts about donations/subscriptions, and anything else that may be going on around you. The most successful streamers are live for up to 12 hours a day, for multiple days a week. It is not uncommon to stay live even longer over the weekends, since that is when a lot of your potential audience will have some free time.
+
+If these conditions were not stressful enough, your income is heavily dependent on Twitch not changing any of the platform’s rules, which has happened in the past. Also, generally speaking, the unique appeal of interacting with a streamer online has worn off a bit. This is evident from multiple reports indicating that Twitch is slowly using users. Its popularity hasn’t crashed overnight, but the decline is visible to regular users.
+
+The other big name in video game content creation, YouTube, offers a similar but slightly more relaxing experience. You can still do live streams on YouTube, but the major appeal with this platform are its regular videos. If you make a video that the audience considers to be worthy of their time, YouTube will usually keep recommending it to newer audiences for as long as possible, thus generating continuous income. 
+
+The difficult part of course, is convincing an audience that your video is worth their time. You might pour in a lot of time and effort making the perfect video, but unless the audience deems it worthy, it will not have a lot of views in the long term. On the other hand, you might put up a low effort video that only took you a few minutes to make, and it could end up being one of the most watched videos on your channel.
+
+That’s not to say success on YouTube is entirely random. If you spend enough time on the platform, you start noticing patterns among your more successful videos, and then you can try to replicate that success. The good news is, unlike Twitch, audiences are still spending a lot of time watching YouTube videos, especially in the gaming category.
+
+When you become eligible for monetisation on YouTube, it brings along with it similar revenue opportunities as Twitch - advertisements, sponsorships, and paid subscriptions (called *memberships*) 
+
+Also similar to Twitch, you will need to constantly be active on the platform to maintain your revenue stream. If you enjoy the process, it is quite rewarding to produce videos and then get feedback from your audience. If you treat it as a standard job that you *must* do in order to earn money, then you run the risk of getting burnt out, which will affect your content’s quality, leading to a loss in revenue. 
+
+To summarise this section, content creation is certainly a lucrative career option. However, given the low barrier of entry, where just about anyone with access to a phone or computer can start a new channel, you can expect constant competition, and a lot of stress around your channel metrics.
+
+***
+
+These are not the *only* known paths to build a career in the industry. There are certainly other options, such as running a retail store selling video game discs and other merchandise, consulting, coaching, and maybe even more options that have not even been discovered yet. With the various tools available for free online, you are only limited by your imagination and time in discovering the next best way to make money in this industry.
