@@ -71,3 +71,90 @@ After the game’s launch, new bugs will inevitably be discovered and reported b
 And that, in a nutshell, was the entire game development process. Depending on whether you’re working alone, in a small team, or at a large studio, these steps may change quite a bit, but the concept remains the same: Plan everything from the start, begin production, watch those plans unravel, make everything come together at the end, launch the game, and say your prayers. 
 
 The reward for putting up with such a stressful task is that a product you created will be played and enjoyed by a worldwide audience. Even better, if the game is well-received, it sets you up for some passive income for several years. Unlike esports athletes or content creators, who have to show up at their job almost everyday if they want to see continued revenue, game developers can live off of the earnings of a single hit game for the rest of their lives.  And that explains why it is such a competitive, and highly lucrative career path.
+
+## Game Publishing
+
+If making a game was the tough part, selling it to an interested audience is even tougher. Relatively speaking, it is easier to build a marketing plan than it is to build a game from scratch, but the argument here is that making a good game isn’t enough. Knowing how to deliver it to the proper audience is also an important process. This is where a game publisher comes in.
+
+Once again, the following is going to offer a very simplified description of what a game publisher does. If you wish to learn more about this process in detail, please spend some more time researching about this process.
+
+Simply put, a game publisher supports a developer by offering them whatever they need to bring their game to the market. Every contract signed between a publisher and a developer is unique, and has various terms and clauses to suit the needs of both parties. 
+
+Here are a few of the various ways in which a publisher can support a developer.
+
+### Funding
+
+At the earliest stages of development, a publisher can offer enough funding to the developer in order to build the game. Apart from cold hard cash, a publisher can also provide office space, software licenses, and anything else that the developer may require to bring their game to life. The publisher thus acts as an investor, hoping to get a return on their investment once the game hits the market.
+
+### Marketing
+
+Games are marketed at various stages of their development. Some projects are announced as soon as they begin production, some are revealed closer to the game’s launch, while some games are announced directly on their launch date, usually as a surprise to an excited audience. 
+
+It is part of the publisher’s role to decide on the marketing strategy of the game, based on its genre and market demand. Publishers can merely assist or entirely take over the complete marketing plan for various games. They hire dedicated community managers to interact with fans and to keep them updated about the game’s development progress. And as the game approaches its launch, publishers work with journalists and online influencers to play their games early, and release a review for their respective audiences.
+
+For AAA games, the budget for such marketing campaigns can run into the tens or even hundreds of millions of dollars. Publishers bear such huge costs, because with the right game, they can get a positive return on their investment on the very day of the game’s launch.
+
+### Distribution
+
+Although this part is quickly becoming irrelevant, a publisher can help a game get a physical release, i.e., the game will be sold on discs. This process involves designing and manufacturing the discs, and then getting them onto store shelves at various retail stores, as well as getting listed on popular e-commerce websites. 
+
+### Development Support
+
+Depending on the size of the publisher, they may be able to provide support in the actual development of the game. This includes things like localisation, testing, and any required technical support, such as porting the game to multiple platforms. For newer developers, having the guidance of an experienced publisher for such tasks can greatly cut down on the time required to bring the game to market. 
+
+### Legal and Regulatory Support
+
+Selling a video game across multiple platforms can quickly become a legal mess, requiring multiple contracts to be signed with platform holders, distributors and other service providers. 
+
+Then there are things like getting an age rating for your game from multiple age-rating boards, who are spread across different countries. 
+
+A publisher can help the developer navigate through all such legal and regulatory requirements, so that the developer can focus on building the game and not worry about meeting a group of bureaucrats and lawyers every day. 
+
+### Analytics
+
+Once a game crosses all the hurdles and launches into the market, the publisher’s role is not done yet. They can continue helping the developer gain insight over their game’s performance, by providing them various metrics, such as sales, the average time that players spend playing their games, the geographical split in their player base, and so on. This information will then help the developer optimise their current or future games so that they have the best chance of success.
+
+***
+
+As you can see, a publisher can offer end-to-end support to help the developer bring their game to market. Each of the support roles mentioned above are provided by specialists. So, if you think you might be interested in a career in game publishing, you can choose one of the roles mentioned above and try to get hired at a publishing company. Once you’re inside, you can keep learning about all the other aspects of the business, and eventually rise to the top of the corporate ladder.
+
+In other words, working at a game publisher company is pretty similar to most other standard desk jobs. The key difference is that since you will be working in the video game industry, your work conversations will revolve a lot around video games, which isn’t such a bad thing.
+
+## Esports
+
+What does it take to be good at something? According to author Malcolm Gladwell, to become an expert at a skill, you need to practice it for at least 10,000 hours. It probably takes a few more hours than that to become a world-class esports athlete.
+
+Esports used to be one of the most visible ways to earn money by playing games. Now it has been replaced by content creation, which has a lower barrier of entry. However, those who take a closer look will realise that if you are able to meet the high standards set by modern esports organisations, it is still a much more lucrative method to pursue a career in the industry.
+
+Esports, or *Electronic Sports*,  is a blanket term used to refer to an organised form of competitive gaming, consisting of tournaments played in front of a live audience, similar to regular sports.
+
+In theory, any video game can be played competitively, but a few are particularly designed with an esports structure in mind. These include popular First-Person Shooter (FPS) titles such as *Counter-Strike 2, Valorant*, and *Overwatch 2*, or Multiplayer Online Battle Arena (MOBA) titles such as *League of Legends*, and *Dota 2.* There are games from other genres as well, such as *Fortnite* (Battle Royale), *FIFA* (Football Simulation), and *Gran Turismo 7* (Racing Simulation).
+
+The organising bodies rely on various revenue streams such as sponsorships, advertising, ticket sales, merchandise sales and sale of broadcast rights, in order to bear the costs of organising tournaments worldwide. 
+
+Esports athletes earn a living by signing contracts with professional teams, which grants them a salary, certain benefits, as well as a share in any potential prizes. 
+
+Pursuing a career in esports as an athlete is certainly more straightforward now than before. You will need to pick a video game that has an active esports scene, and which you are good at. Then, find yourself a suitable team (which is easier said than done), participate in one of the numerous qualifying tournaments that are held at certain times of the year, and you will soon find your team climbing up the ladders at some of the most important tournaments.
+
+Yet again, this is an oversimplification of the actual process. Unlike most of the other career paths, your success in esports depends on a combination of talent and luck. With the other careers, if you stick to a path long enough, you will find yourself making progress. 
+
+But with esports, you either have to find success within your first few years in the circuit, or you will simply find yourself being outplayed by people younger than yourself, further making it difficult to succeed. 
+
+That’s because age is your enemy in this career path. It’s not as if you will suddenly lose your talent once you start aging, but your responsibilities may go up over time, and you will find yourself with less time to practice, compared to when you were much younger.  
+
+There are other jobs available in the esports world as well, but unless you have a natural passion for roles like casting (providing live commentary), there is not much financial incentive to pursue them. 
+
+To throw in my personal opinion into the mix, I feel that pursuing a career in esports is extremely risky at the moment, maybe even more so than taking up game development. That’s because there are very few things that are under your control.
+
+Esports athletes do not know if their chosen video game will continue attracting a worldwide audience each year, which is a key factor in determining whether esports tournaments are held or not. Except for the top 1% of players, everyone else is not really guaranteed to get salaries and other benefits, so it becomes an extremely cut-throat competition to reach the top and survive. And just like traditional sports, there is immense pressure to perform at your peak and earn as  much as you can before you hit a certain age, because there is no guarantee of what happens beyond that.
+
+A few people do have that competitive edge that makes it really easy for them to survive under such conditions. For these select few, the world of esports offers many lucrative opportunities. If you wish to pursue a career here, you will first need to find out if you belong to that small minority of naturally talented athletes who can keep calm under pressure and perform consistently in front of a worldwide audience. 
+
+For the rest of us, there’s no shame in accepting our limits and pursuing other career options, while cheering on our favourite players from the stands. 
+
+
+## Content Creation
+
+## Retail 
+
+Please note that these are not the *only* known paths to build a career in the industry. There are certainly other options, such as consulting, coaching, and maybe even more that have not even been discovered yet. With the various tools available for free online, you are only limited by your imagination and time in discovering the next best way to make money in this industry.
